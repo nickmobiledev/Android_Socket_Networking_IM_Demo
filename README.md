@@ -1,2 +1,2 @@
-# Android_Socket_Networking_IM_Demo
+# Android Socket Networking IM Demo
 Simple Android Instant Messaging Application Demonstrating Socket Network Communication
